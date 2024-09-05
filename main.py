@@ -1,3 +1,2 @@
 print('Hello world')
-
-print('i sosy hyi')
+print('sosi hyi')
